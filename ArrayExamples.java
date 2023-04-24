@@ -1,6 +1,6 @@
 
 
-public class ArrayExamples {
+public class ArrayExamples { 
 
   // Changes the input array to be in reversed order
   static Object reverseInPlace(int[] arr) {
